@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IQRAAMIR1/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IQRAAMIR1/Leetcode/tree/master/0027-remove-element) |
+| [3541-report-spam-message](https://github.com/IQRAAMIR1/Leetcode/tree/master/3541-report-spam-message) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IQRAAMIR1/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/IQRAAMIR1/Leetcode/tree/master/0001-two-sum) |
+| [3541-report-spam-message](https://github.com/IQRAAMIR1/Leetcode/tree/master/3541-report-spam-message) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IQRAAMIR1/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IQRAAMIR1/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/IQRAAMIR1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/IQRAAMIR1/Leetcode/tree/master/0058-length-of-last-word) |
+| [3541-report-spam-message](https://github.com/IQRAAMIR1/Leetcode/tree/master/3541-report-spam-message) |
 ## Trie
 |  |
 | ------- |
