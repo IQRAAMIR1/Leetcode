@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/IQRAAMIR1/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IQRAAMIR1/Leetcode/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/IQRAAMIR1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/IQRAAMIR1/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/IQRAAMIR1/Leetcode/tree/master/0066-plus-one) |
 | [3541-report-spam-message](https://github.com/IQRAAMIR1/Leetcode/tree/master/3541-report-spam-message) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/IQRAAMIR1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/IQRAAMIR1/Leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/IQRAAMIR1/Leetcode/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/IQRAAMIR1/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
