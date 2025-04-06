@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/IQRAAMIR1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/IQRAAMIR1/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/IQRAAMIR1/Leetcode/tree/master/0066-plus-one) |
+| [0135-candy](https://github.com/IQRAAMIR1/Leetcode/tree/master/0135-candy) |
 | [3541-report-spam-message](https://github.com/IQRAAMIR1/Leetcode/tree/master/3541-report-spam-message) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IQRAAMIR1/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/IQRAAMIR1/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/IQRAAMIR1/Leetcode/tree/master/0135-candy) |
 ## Matrix
 |  |
 | ------- |
