@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/IQRAAMIR1/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/IQRAAMIR1/Leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/IQRAAMIR1/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/IQRAAMIR1/Leetcode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/IQRAAMIR1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/IQRAAMIR1/Leetcode/tree/master/0412-fizz-buzz) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/IQRAAMIR1/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/IQRAAMIR1/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/IQRAAMIR1/Leetcode/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/IQRAAMIR1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/IQRAAMIR1/Leetcode/tree/master/0368-largest-divisible-subset) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/IQRAAMIR1/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
