@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/IQRAAMIR1/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/IQRAAMIR1/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/IQRAAMIR1/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/IQRAAMIR1/Leetcode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/IQRAAMIR1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/IQRAAMIR1/Leetcode/tree/master/0412-fizz-buzz) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/IQRAAMIR1/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/IQRAAMIR1/Leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/IQRAAMIR1/Leetcode/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/IQRAAMIR1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [3541-report-spam-message](https://github.com/IQRAAMIR1/Leetcode/tree/master/3541-report-spam-message) |
 | [3799-unique-3-digit-even-numbers](https://github.com/IQRAAMIR1/Leetcode/tree/master/3799-unique-3-digit-even-numbers) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IQRAAMIR1/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/IQRAAMIR1/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
