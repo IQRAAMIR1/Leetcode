@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/IQRAAMIR1/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/IQRAAMIR1/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/IQRAAMIR1/Leetcode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/IQRAAMIR1/Leetcode/tree/master/0263-ugly-number) |
