@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/IQRAAMIR1/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/IQRAAMIR1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/IQRAAMIR1/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/IQRAAMIR1/Leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/IQRAAMIR1/Leetcode/tree/master/0412-fizz-buzz) |
 | [3541-report-spam-message](https://github.com/IQRAAMIR1/Leetcode/tree/master/3541-report-spam-message) |
 ## Trie
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/IQRAAMIR1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/IQRAAMIR1/Leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/IQRAAMIR1/Leetcode/tree/master/0125-valid-palindrome) |
 ## Recursion
 |  |
 | ------- |
